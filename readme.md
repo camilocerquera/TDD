@@ -17,3 +17,4 @@
 
 # Prueba 2. N Numeros
 1. (Rojo) se crea la prueba para n numeros
+2. (Verde) se ajusta el método para que la prueba corra
