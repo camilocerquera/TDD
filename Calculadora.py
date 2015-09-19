@@ -7,3 +7,7 @@ class Calculadora:
 
     def sumar(self, cadena):
         print("sumar: " + cadena)
+        if cadena and cadena.strip():
+            return 1
+        else:
+            return 0
