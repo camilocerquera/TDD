@@ -27,3 +27,6 @@ class TestCalculadora(TestCase):
     def test_sumar_dosNumerosDosPuntos(self):
         self.assertEqual(Calculadora().sumar("1:2"), 3, "n numeros")
 
+    def test_sumar_dosNumerosAnd(self):
+        self.assertEqual(Calculadora().sumar("1&2"), 3, "n numeros")
+
