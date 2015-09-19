@@ -4,3 +4,4 @@
 
 # Paso 2
 1. (Rojo) un número
+2. (Verde) se ajusta el método para que la prueba corra.
