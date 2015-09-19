@@ -8,6 +8,13 @@ class Calculadora:
     def sumar(self, cadena):
         print("sumar: " + cadena)
         if cadena and cadena.strip():
-            return cadena
+            array = cadena.split(",")
+            if len(array) > 1:
+                numero1 = int(array[0])
+                numero2 = int(array[1])
+                total = numero1 + numero2
+                return total
+            else:
+                return cadena
         else:
             return 0
