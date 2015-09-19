@@ -22,3 +22,4 @@
 # Paso 5
 # Prueba 1. dos numeros separados por dos puntos
 1. (Rojo) se crea la prueba para 2 numeros separados por el caracter ":"
+2. (Verde) se ajusta el método para que sume dos números que estan separados por un caracter ":"
