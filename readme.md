@@ -13,3 +13,4 @@
 # Paso 4
 # Prueba 1. tres números
 1. (Rojo) se crea la prueba para tres números
+2. (Verde) se ajusta el método para que la prueba corra.
