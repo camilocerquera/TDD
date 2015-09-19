@@ -27,3 +27,6 @@
 # Prueba 2. dos numeros separados por "&"
 1. (Rojo) se crea la prueba para 2 numeros separados por el caracter "&"
 2. (Verde) se ajusta el método para que sume dos numeros separados por el caracter "&"
+
+# Prueba 3. n numeros separados por "," o ":" o "&"
+2. (Verde) se crea la prueba para sumar n numeros separados por cualquiera de los tres separadores permitidos. la prueba es exitosa.
